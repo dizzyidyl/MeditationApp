@@ -19,5 +19,5 @@ https://www.linkedin.com/in/morgan-meyers-841328269/
 Icons, images and inspiration:
 
 * [icons8.com](https://icons8.com/) - Icons
-* [https://pixabay.com/videos/] - Background videos
+* https://pixabay.com/videos/ - Background videos
 
