@@ -17,5 +17,6 @@ https://www.linkedin.com/in/morgan-meyers-841328269/
 ## Acknowledgments
 
 Icons, images and inspiration:
-icons8.com
+
+* icons8.com
 
